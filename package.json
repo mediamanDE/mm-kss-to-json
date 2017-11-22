@@ -1,0 +1,19 @@
+{
+  "name": "mm-kss-to-json",
+  "version": "0.1.0",
+  "description": "Output kss-node styleguide as JSON",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediamanDE/mm-kss-to-json.git"
+  },
+  "author": {
+    "name": "mediaman GmbH",
+    "email": "hallo@mediaman.de"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "kss": "^3.0.0-beta.18",
+    "yargs": "^10.0.3"
+  }
+}
