@@ -1,6 +1,6 @@
 {
-  "name": "mm-kss-to-json",
-  "version": "0.1.0",
+  "name": "@mediaman/kss-to-json",
+  "version": "1.0.0",
   "description": "Output kss-node styleguide as JSON",
   "repository": {
     "type": "git",
